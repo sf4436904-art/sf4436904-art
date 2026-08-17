@@ -33,7 +33,7 @@ I enjoy working across **Machine Learning, Generative AI, Python development, AP
 
 I'm especially interested in turning ideas into working products — from training ML models to building APIs and connecting AI with real-world workflows.
 
-> 💡 **Developer by passion, tutor by nature, speaker by choice, and learner for life.**
+> 💡 **From debugging code to teaching concepts and taking the stage—I enjoy wearing many hats. **
 
 ---
 
