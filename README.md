@@ -53,7 +53,7 @@ I'm especially interested in turning ideas into working products — from traini
 ### 👩‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css" />
 </p>
 
 ### 🤖 AI / Machine Learning
