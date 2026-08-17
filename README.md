@@ -48,33 +48,33 @@ I'm especially interested in turning ideas into working products — from traini
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 👩‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 </p>
 
 ### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 ### ⚙️ Backend & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=fastapi,tailwind" />
 </p>
 
 ### 🗄️ Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -84,42 +84,42 @@ I'm especially interested in turning ideas into working products — from traini
 <div align="center">
 
 <a href="https://github.com/sf4436904-art">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sf4436904-art&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Vajeeha's GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sf4436904-art&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Vajeeha's GitHub Stats"/>
 </a>
 
 <a href="https://github.com/sf4436904-art">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sf4436904-art&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Vajeeha's Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sf4436904-art&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Vajeeha's Top Languages"/>
 </a>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
 <a href="https://github.com/sf4436904-art">
-<img src="https://streak-stats.demolab.com/?user=sf4436904-art&theme=tokyonight&hide_border=true" alt="Vajeeha's GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=sf4436904-art&theme=tokyonight&hide_border=true" alt="Vajeeha's GitHub Streak"/>
 </a>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
 <a href="https://github.com/sf4436904-art">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sf4436904-art&theme=tokyo-night&hide_border=true&area=true&custom_title=Vajeeha's%20Contribution%20Graph" width="100%" alt="Vajeeha's Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sf4436904-art&theme=tokyo-night&hide_border=true&area=true&custom_title=Vajeeha's%20Contribution%20Graph" width="100%" alt="Vajeeha's Contribution Graph"/>
 </a>
 
 </div>
 
 ---
 
-## 🗓️ Contribution Overview
+# 🗓️ Contribution Overview
 
 <div align="center">
 
@@ -134,66 +134,66 @@ I'm especially interested in turning ideas into working products — from traini
 <div align="center">
 
 <a href="https://github.com/sf4436904-art/StudentResultPrediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sf4436904-art&repo=StudentResultPrediction&theme=tokyonight&hide_border=true" alt="Student Result Prediction"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sf4436904-art&repo=StudentResultPrediction&theme=tokyonight&hide_border=true" alt="Student Result Prediction"/>
 </a>
 
 <a href="https://github.com/sf4436904-art/House-Price-Prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sf4436904-art&repo=House-Price-Prediction&theme=tokyonight&hide_border=true" alt="House Price Prediction"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sf4436904-art&repo=House-Price-Prediction&theme=tokyonight&hide_border=true" alt="House Price Prediction"/>
 </a>
 
 <a href="https://github.com/sf4436904-art/FASTAPI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sf4436904-art&repo=FASTAPI&theme=tokyonight&hide_border=true" alt="FastAPI"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sf4436904-art&repo=FASTAPI&theme=tokyonight&hide_border=true" alt="FastAPI"/>
 </a>
 
 <a href="https://github.com/sf4436904-art/vajeeha-portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sf4436904-art&repo=vajeeha-portfolio&theme=tokyonight&hide_border=true" alt="Vajeeha Portfolio"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sf4436904-art&repo=vajeeha-portfolio&theme=tokyonight&hide_border=true" alt="Vajeeha Portfolio"/>
 </a>
 
 </div>
 
 ---
 
-## 💻 What I Build
+# 💻 What I Build
 
 | Area                       | Focus                                                       |
 | -------------------------- | ----------------------------------------------------------- |
 | 🤖 Artificial Intelligence | ML models, intelligent applications, AI-powered solutions   |
 | 📊 Machine Learning        | Prediction, classification, data preprocessing & evaluation |
 | 🧠 Generative AI           | AI agents, LLM applications & automation                    |
-| ⚡ Backend Development      | FastAPI, Flask, REST APIs & API integration                 |
+| ⚡ Backend Development      | FastAPI, REST APIs & API integration                        |
 | 📈 Data & Analytics        | Python, Pandas, NumPy, SQL & data analysis                  |
-| 🌐 Web Development         | HTML, CSS, JavaScript, TypeScript & modern web apps         |
+| 🌐 Web Development         | HTML, CSS, JavaScript & modern web applications             |
 
 ---
 
-## 🏆 Highlights
+# 🏆 Highlights
 
-* 🎓 Computer Science student specializing in **AI & ML**
+* 🎓 Computer Science student specializing in **Artificial Intelligence & Machine Learning**
 * 🧠 Building projects across **AI, ML, APIs & software development**
 * 🎤 Experienced in **public speaking, anchoring & communication**
-* 📚 Enjoy **teaching, mentoring and helping others learn**
+* 📚 Enjoy **teaching, tutoring and helping others learn**
 * 🚀 Interested in **AI-powered products and workflow automation**
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://in.linkedin.com/in/vajeeha-rizvi-9300a832a">
-<img src="https://img.shields.io/badge/LinkedIn-Vajeeha%20Rizvi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Vajeeha%20Rizvi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:rizvivajeeha6@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-rizvivajeeha6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-rizvivajeeha6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.leetcode.com/vajeeha_rizvi">
-<img src="https://img.shields.io/badge/LeetCode-vajeeha__rizvi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-vajeeha__rizvi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <a href="https://github.com/sf4436904-art">
-<img src="https://img.shields.io/badge/GitHub-sf4436904--art-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-sf4436904--art-181717?style=for-the-badge&logo=github" />
 </a>
 
 </div>
